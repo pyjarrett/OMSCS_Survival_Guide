@@ -443,6 +443,10 @@ go for the "A" in your specialization because you need to get at least a "B" in 
 and go for the "B" in the class which you see as being easier or not in your specialization.
 This way, if you get a "C" the class will still count.
 
+WARNING: Note that if you try to pursue this method, you will likely lose much of your competitiveness
+to get into PhD programs because you are sacrificing your GPA.  Also, you will probably get less out
+of your courses by taking multiple at a time.
+
 # I hope that covers it
 
 If you have any other questions you want added onto this, just post below or
