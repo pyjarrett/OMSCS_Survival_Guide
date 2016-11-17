@@ -431,6 +431,18 @@ on your work, you will find yourself having a fun and creative time.
 Build rewards into your process.  I've always thought this was silly until I
 actually started doing it.
 
+# The "A"/"B" method.
+
+Let's say you just want to get done with graduate school in the minimum amount of time.
+You want to take the summers off so you get a break, but still want to get done quickly
+in 5 semesters.  Enter: the "A" "B" method.  The idea of this is to take 2 classes per
+semester and go for an "A" in one class and a "B" in the other.  The idea is to not stress
+yourself out too much trying to get an "A" in both classes, while still finishing the program
+as quickly as possible.  Keep in mind that to safely pursue this methodology, you should probably
+go for the "A" in your specialization because you need to get at least a "B" in that course,
+and go for the "B" in the class which you see as being easier or not in your specialization.
+This way, if you get a "C" the class will still count.
+
 # I hope that covers it
 
 If you have any other questions you want added onto this, just post below or
