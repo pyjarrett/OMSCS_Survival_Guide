@@ -89,6 +89,28 @@ will get a lot of helpful suggestions about if you are taking too much.
 
 # Must-Have Websites
 
+## Google+
+
+There is a very active Georgia Tech OMSCS community on Google+, where you can
+discuss course registrations, general OMSCS topics, and other generic things about OMSCS.
+Note that this includes bother students, TAs, and some professors, so be sure to temper what you
+say there.  It is really friendly there (not a surprise, every OMSCS person I've
+met is friendly) and you will likely get ansnwer quickly.
+
+_**Do not spam the Google+ OMSCS board**_
+
+Every person that writes a question enters the inbox of *all* members of
+the Google+ OMSCS community.  Please: search for answers to your questions
+on other reference sites before you post.  It is incredibly
+irritating to many when the same questions (and answers) appear 3, 4 or more times.
+This gets more frustrating when it is a small group of people who continue to ask
+repeat questions.  Roughly 2/3rds of the questions that enter my email have been
+asked before, and I am to the point that I have considered leaving the Google+
+OMSCS group since it has become unusable. This is not to say that you shouldn't
+ask questions.  But please, please, search on the community first.  With a high
+degree of likelihood, your question already has a very detailed answer and you
+won't need to even wait for one when you find it :)
+
 ## Lectures on Udacity
 
 As expected, there are lectures for each class.  Accompanying this is typically
@@ -112,7 +134,7 @@ actually watch the lectures and take notes and do the quizzes.  It takes more
 time, but since I am a super strong visual and auditory learner, so I retain it
 better.  In the end, I believe that it saves me time.
 
-# Piazza
+## Piazza
 
 Every class I've taken has used the awesome online forum Piazza.  It works like
 any internet forum with posts and replies.  Ask questions and interact with
@@ -149,7 +171,7 @@ Foster the community on Piazza, since your fellow students will be awesome.  I
 would call out names here of awesome folks I've gotten to work with, but there's
 too many names and not enough space to list them here.
 
-# T-Square
+## T-Square
 
 This is how you will submit assignments and get grades returned to you.  It's a
 pretty simple web interface.  There really isn't much to it, just make sure you
