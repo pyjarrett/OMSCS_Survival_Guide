@@ -38,7 +38,7 @@ Your [specialization](http://www.omscs.gatech.edu/program-info/specializations)
 will not take but about half of your 30 credits to graduate,
 so you have time to take other classes you are interested in.  So, for Pete's
 sake take classes that interest you!  If you're debating between multiple
-courses, have a gander at the [unofficial course reviews](https://gt-course-surveys.herokuapp.com/).
+courses, have a gander at the [unofficial course reviews](https://omscentral.com/reviews).
 
 Classes typically have a list of recommended skills and background listed on the
 appropriate OMSCS page.  Read this and get an overview on the main stuff.
