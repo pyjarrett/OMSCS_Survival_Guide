@@ -72,7 +72,7 @@ would have that much time to invest, I managed to get everything done.
 If you have a major life event (wedding, baby due, job change, etc.) I would
 recommend taking 1 class less than you would otherwise think you could handle.
 I would also examine the level of difficulty of course I would be picking  with
-a lot more scruitiny.
+a lot more scrutiny.
 
 Some courses are known to be "take only this course in a semester", such as:
 computer vision, CCA, machine learning, and HPCA.  There are others.  If you
@@ -95,7 +95,7 @@ There is a very active Georgia Tech OMSCS community on Google+, where you can
 discuss course registrations, general OMSCS topics, and other generic things about OMSCS.
 Note that this includes bother students, TAs, and some professors, so be sure to temper what you
 say there.  It is really friendly there (not a surprise, every OMSCS person I've
-met is friendly) and you will likely get ansnwer quickly.
+met is friendly) and you will likely get answer quickly.
 
 _**Do not spam the Google+ OMSCS board**_
 
