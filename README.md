@@ -163,7 +163,7 @@ posts.
 
 "Star" the most useful posts, as you will probably be working tired at some
 point.  This sounds pretty basic, but if you're sleep deprived, being able to
-find a re-read that post in which the TA explains a critical technical point
+find and re-read that post in which the TA explains a critical technical point
 about the assignment for clarification will save you many minutes.  Also,
 "archive" posts you know you aren't going to need to reduce the clutter.
 
