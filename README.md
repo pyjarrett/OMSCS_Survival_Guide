@@ -93,7 +93,7 @@ will get a lot of helpful suggestions about if you are taking too much.
 
 There is a very active Georgia Tech OMSCS community on Google+, where you can
 discuss course registrations, general OMSCS topics, and other generic things about OMSCS.
-Note that this includes bother students, TAs, and some professors, so be sure to temper what you
+Note that this includes other students, TAs, and some professors, so be sure to temper what you
 say there.  It is really friendly there (not a surprise, every OMSCS person I've
 met is friendly) and you will likely get answer quickly.
 
