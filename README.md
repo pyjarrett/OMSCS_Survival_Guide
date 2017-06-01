@@ -38,7 +38,7 @@ Your [specialization](http://www.omscs.gatech.edu/program-info/specializations)
 will not take but about half of your 30 credits to graduate,
 so you have time to take other classes you are interested in.  So, for Pete's
 sake take classes that interest you!  If you're debating between multiple
-courses, have a gander at the [unofficial course reviews](https://gt-course-surveys.herokuapp.com/).
+courses, have a gander at the [unofficial course reviews](https://omscentral.com/reviews).
 
 Classes typically have a list of recommended skills and background listed on the
 appropriate OMSCS page.  Read this and get an overview on the main stuff.
@@ -72,7 +72,7 @@ would have that much time to invest, I managed to get everything done.
 If you have a major life event (wedding, baby due, job change, etc.) I would
 recommend taking 1 class less than you would otherwise think you could handle.
 I would also examine the level of difficulty of course I would be picking  with
-a lot more scruitiny.
+a lot more scrutiny.
 
 Some courses are known to be "take only this course in a semester", such as:
 computer vision, CCA, machine learning, and HPCA.  There are others.  If you
@@ -93,9 +93,9 @@ will get a lot of helpful suggestions about if you are taking too much.
 
 There is a very active Georgia Tech OMSCS community on Google+, where you can
 discuss course registrations, general OMSCS topics, and other generic things about OMSCS.
-Note that this includes bother students, TAs, and some professors, so be sure to temper what you
+Note that this includes other students, TAs, and some professors, so be sure to temper what you
 say there.  It is really friendly there (not a surprise, every OMSCS person I've
-met is friendly) and you will likely get ansnwer quickly.
+met is friendly) and you will likely get answer quickly.
 
 _**Do not spam the Google+ OMSCS board**_
 
@@ -163,7 +163,7 @@ posts.
 
 "Star" the most useful posts, as you will probably be working tired at some
 point.  This sounds pretty basic, but if you're sleep deprived, being able to
-find a re-read that post in which the TA explains a critical technical point
+find and re-read that post in which the TA explains a critical technical point
 about the assignment for clarification will save you many minutes.  Also,
 "archive" posts you know you aren't going to need to reduce the clutter.
 
