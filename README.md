@@ -286,7 +286,7 @@ point is clear.  PUT EVERYTHING IN SOURCE CONTROL.  Bookmarks of websites or
 other resources get put into a resources.md (md is for markdown).  The unit (and
 sometimes integration) tests that I write.  The assignment specification and
 other documents and resources provided for the assignment.  My code goes in
-source control, as do my report's Latex files (see below section on Latex).  The
+source control, as do my report's LaTeX files (see below section on LaTeX).  The
 only thing you shouldn't put in source control is any file that you can generate
 from another file (e.g. JavaDocs, Sphinx Docs, .pyc files, C++ \*.o files, things
 created by CMake, etc.) and you should have these on your [.gitignore](https://git-scm.com/docs/gitignore)
@@ -296,18 +296,18 @@ If you are on a group project, you will almost undoubtable use git.
 
 **If you are working by yourself, you should just use git anyways.**
 
-## Latex
+## LaTeX
 
 If you are really crafty, you can merge the "source control" and the "command
-line" recommendations above by doing your reports in [Latex](https://www.latex-project.org/).
-Think of Latex as HTML or Markdown for documents, but it can create PDFs.  It's
+line" recommendations above by doing your reports in [LaTeX](https://www.latex-project.org/).
+Think of LaTeX as HTML or Markdown for documents, but it can create PDFs.  It's
 not trivial to do so, but it helps when you add things to a report to be able to
 have a history of your document and be able to verify the changes.  `git diff`
 is built into my workflow, even that around documents, so I always check my work
 to see that I'm putting in my source control repository only the things that I
 expect should have changed.
 
-I have a template Latex document with specific customized commands and  reuse
+I have a template LaTeX document with specific customized commands and  reuse
 that document as a starter for all my reports.
 
 Tad M. recommends trying Markdown for simple things viewed on Github.  [Pandoc](http://pandoc.org/)
@@ -332,12 +332,12 @@ for routine complex commands).
 
 I set up Makefiles to do lots of things listed above.  Building pdfs and don't
 want to retype that command to build it again?  Add it to the Makefile.  Want to
-rerun your code and rebuild your pdf from Latex with the new images when you
+rerun your code and rebuild your pdf from LaTeX with the new images when you
 update your project.  Make your PDF make rule depend on your source files!
-Latex really takes the cake away from MicrosoftWord or MicrosoftPowerPoint, or
-OpenOffice, or Apple's Pages here.  Since Latex only consists of text and hence
+LaTeX really takes the cake away from MicrosoftWord or MicrosoftPowerPoint, or
+OpenOffice, or Apple's Pages here.  Since LaTeX only consists of text and hence
 doesn't embed the resources in the document, you can have your code generate new
-output and then rerunning Latex will cause those new resources (i.e. images) to
+output and then rerunning LaTeX will cause those new resources (i.e. images) to
 be updated in the newly created PDF.
 
 ## Unit Test
