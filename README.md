@@ -45,7 +45,7 @@ appropriate OMSCS page.  Read this and get an overview on the main stuff.
 
 Do not avoid classes or specializations because you don't know a particular
 programming language.  It baffles me that people do this and it physically pains
-me whenever I see a Google+ post of someone trying to do this.  If you stop
+me whenever I see a Reddit post of someone trying to do this.  If you stop
 learning new languages and tools, you will make yourself obsolete.  Play around
 on [HackerRank](https://www.hackerrank.com/domains) or set up a test environment
 and learn about the language your class uses before class starts.  OMSCS is an
@@ -75,8 +75,8 @@ I would also examine the level of difficulty of course I would be picking  with
 a lot more scrutiny.
 
 Some courses are known to be "take only this course in a semester", such as:
-computer vision, CCA, machine learning, and HPCA.  There are others.  If you
-search for, or ask about your desired scheduled on the OMSCS Google+ group, you
+computer vision, CCA (when it existed.), machine learning, and HPCA.  There are others.  If you
+search for, or ask about your desired scheduled on the OMSCS Reddit, you
 will get a lot of helpful suggestions about if you are taking too much.
 
 # Big Dates to Know
@@ -89,17 +89,17 @@ will get a lot of helpful suggestions about if you are taking too much.
 
 # Must-Have Websites
 
-## Google+
+## ~~Google+~~
 
-There is a very active Georgia Tech OMSCS community on Google+, where you can
+~~There is a very active Georgia Tech OMSCS community on Google+, where you can
 discuss course registrations, general OMSCS topics, and other generic things about OMSCS.
 Note that this includes other students, TAs, and some professors, so be sure to temper what you
 say there.  It is really friendly there (not a surprise, every OMSCS person I've
-met is friendly) and you will likely get answer quickly.
+met is friendly) and you will likely get answer quickly.~~
 
-_**Do not spam the Google+ OMSCS board**_
+~~_**Do not spam the Google+ OMSCS board**_~~
 
-Every person that writes a question enters the inbox of *all* members of
+~~Every person that writes a question enters the inbox of *all* members of
 the Google+ OMSCS community.  Please: search for answers to your questions
 on other reference sites before you post.  It is incredibly
 irritating to many when the same questions (and answers) appear 3, 4 or more times.
@@ -109,7 +109,10 @@ asked before, and I am to the point that I have considered leaving the Google+
 OMSCS group since it has become unusable. This is not to say that you shouldn't
 ask questions.  But please, please, search on the community first.  With a high
 degree of likelihood, your question already has a very detailed answer and you
-won't need to even wait for one when you find it :)
+won't need to even wait for one when you find it :)~~
+
+Google+ doesn't exist anymore.  You can probably reach out on [r/OMSCS](https://www.reddit.com/r/OMSCS/)
+on Reddit for things mentioned above.
 
 ## Lectures on Udacity
 
@@ -196,10 +199,12 @@ have been completely optional and for just going more in-depth into the material
 to get derivations or a better grip on the math. The Hedge Fund book for ML4T
 has been my only "required" textbook.
 
-Notable Exceptions to the "Required Only" Rule: The
+Notable Exceptions to the "Required Only" Rule: ~~The
 [CLRS](https://www.amazon.com/Introduction-Algorithms-3rd-MIT-Press/dp/0262033844/)
 and [Sipser](https://www.amazon.com/Introduction-Theory-Computation-Michael-Sipser/dp/113318779X)
-algorithm books for CCA (Computability, Complexity, and Algorithms).
+algorithm books for CCA (Computability, Complexity, and Algorithms).~~  CCA
+doesn't exist anymore and has been replaced by Graduate Algorithms.  CLRS is still
+a great book to have.
 I would highly recommend Thrun's [Probabilistic robotics
 book](https://www.amazon.com/Probabilistic-Robotics-Intelligent-Autonomous-Agents/dp/0262201623/)
 though if you can afford it, and want to really understand the math behind
@@ -235,7 +240,7 @@ back up to date.
 
 If you are scared of a command line, during the semester for some courses is not
 the time to try to "figure it out."  You don't need to be a bash expert, but if
-you're not at least familiar on the surface with the [tools I've mentioned before](https://www.linkedin.com/pulse/article/guide-9-omscs-credits-full-time-employment-paul-jarrett)
+you're not at least familiar on the surface with basic Linux tools
 (git, grep, less, find, etc.) for most classes, you are in for a hurtful
 awakening.
 
