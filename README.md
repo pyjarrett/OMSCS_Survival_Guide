@@ -1,6 +1,11 @@
-I've been asked several times about tips for the OMSCS program.  I don't profess
-to be an expert, and I'm not entirely certain what people want to hear, but
-here's my best take.
+# It's 2021 now, and this was written in 2016
+
+__**It's been over four years since I wrote this and more than three since I
+graduated.  Since I've been disconnected from the school for so long, I've
+struck out the material I believe might be out of date.  I'd hoped
+that students would submit corrections over time to keep it current, but that
+hasn't happened, so I oscillate between thinking of removing this repository in
+it's entirely or paring it down to just the unstruck portions.**__
 
 # How OMSCS Works
 
@@ -8,37 +13,37 @@ Georgia Tech's OMSCS might be online, but these are campus level of difficulty
 Master's courses.  Georgia Tech does a good job reinforcing its reputation while
 offering these distance courses.
 
-# Prepping for the Semester
+# ~~Prepping for the Semester~~
 
-Time tickets: Registration occurs in two phases: I and II.  Time tickets come
+~~Time tickets: Registration occurs in two phases: I and II.  Time tickets come
 out a day before registration starts and give you your time interval for doing
-registration. The schedule for everything is at the [GT Registrar's website.](http://www.registrar.gatech.edu/calendar/)
+registration. The schedule for everything is at the [GT Registrar's website.](http://www.registrar.gatech.edu/calendar/)~~
 
-Holds: From Ric Y: If you have holds on your account you cannot register!  Be
-sure to check and get these cleared so you can get the classes you want.
+~~Holds: From Ric Y: If you have holds on your account you cannot register!  Be
+sure to check and get these cleared so you can get the classes you want.~~
 
-Registration: Old students get phase I registration, new students only get phase
+~~Registration: Old students get phase I registration, new students only get phase
 II.  You have a significantly better chance of getting into classes during phase
 I than phase II.   If you are not standing by to register for a highly sought
 after class within the first 15 minutes of the registration period, you will
 probably get on a waiting list.  Ensure you convert the period of your time
 ticket to your local time zone. I *ahem*, may have forgotten that (at least)
 once (I also tend to lose my car in the parking garage at work at least a few
-times a week).
+times a week).~~
 
-Picking Classes: Know which specialization you want to pursue, as it will fit
+~~Picking Classes: Know which specialization you want to pursue, as it will fit
 into your class schedule.  Get your foundational courses done quickly, as it
 causes you to transfer to being a fully admitted student.  If you delay, you
 might have some real life thing come up, causing you to need to drop a course
 and not meet your foundational requirements on time and get potentially booted
-from the program.  Game over.
+from the program.  Game over.~~
 
-Most classes have a sample lecture and syllabus posted on the [OMSCS website](http://www.omscs.gatech.edu/current-courses).
+~~Most classes have a sample lecture and syllabus posted on the [OMSCS website](http://www.omscs.gatech.edu/current-courses).
 Your [specialization](http://www.omscs.gatech.edu/program-info/specializations)
 will not take but about half of your 30 credits to graduate,
 so you have time to take other classes you are interested in.  So, for Pete's
 sake take classes that interest you!  If you're debating between multiple
-courses, have a gander at the [unofficial course reviews](https://omscentral.com/reviews).
+courses, have a gander at the [unofficial course reviews](https://omscentral.com/reviews).~~
 
 Classes typically have a list of recommended skills and background listed on the
 appropriate OMSCS page.  Read this and get an overview on the main stuff.
@@ -79,13 +84,12 @@ computer vision, CCA (when it existed.), machine learning, and HPCA.  There are 
 search for, or ask about your desired scheduled on the OMSCS Reddit, you
 will get a lot of helpful suggestions about if you are taking too much.
 
-# Big Dates to Know
+# ~~Big Dates to Know~~
 
-1. Phase I registration
-2. Time Tickets
-3. Phase II registration
-4. The first withdrawal deadline (before you get a "W" for withdrawal on your transcript)
-5. The final withdrawal deadline (the last offramp, in which you get a "W" instead of an actual grade)
+1. ~~Phase I registration~~
+2. ~~Time Tickets~~
+4. ~~The first withdrawal deadline (before you get a "W" for withdrawal on your transcript)~~
+5. ~~The final withdrawal deadline (the last offramp, in which you get a "W" instead of an actual grade)~~
 
 # Must-Have Websites
 
@@ -114,7 +118,7 @@ won't need to even wait for one when you find it :)~~
 Google+ doesn't exist anymore.  You can probably reach out on [r/OMSCS](https://www.reddit.com/r/OMSCS/)
 on Reddit for things mentioned above.
 
-## Lectures on Udacity
+## Lectures ~~on Udacity~~
 
 As expected, there are lectures for each class.  Accompanying this is typically
 some sort of "recommended schedule" so you stay up to date with the knowledge
@@ -137,15 +141,15 @@ actually watch the lectures and take notes and do the quizzes.  It takes more
 time, but since I am a super strong visual and auditory learner, so I retain it
 better.  In the end, I believe that it saves me time.
 
-## Piazza
+## ~~Piazza~~ Class forums
 
-Every class I've taken has used the awesome online forum Piazza.  It works like
+~~Every class I've taken has used the awesome online forum Piazza.  It works like
 any internet forum with posts and replies.  Ask questions and interact with
 other students, as you will probably see them again.  If you're not sure if your
 question is appropriate for a group discussion, post a private question/note to
 the teaching staff first, and sometimes they will tell you to make it public (or
 ask).  Also, be sure to grab the Piazza app for your mobile device.  If you have
-time to play Pokemon Go, you have time to check Piazza.
+time to play Pokemon Go, you have time to check Piazza.~~
 
 Students post really useful things like IDE recommendations, useful 3rd party
 libraries, documentation links, and (when allowed) unit/integration tests.
@@ -174,20 +178,20 @@ Foster the community on Piazza, since your fellow students will be awesome.  I
 would call out names here of awesome folks I've gotten to work with, but there's
 too many names and not enough space to list them here.
 
-## T-Square
+## ~~T-Square~~
 
-This is how you will submit assignments and get grades returned to you.  It's a
+~~This is how you will submit assignments and get grades returned to you.  It's a
 pretty simple web interface.  There really isn't much to it, just make sure you
 get an e-mail confirmation of assignment submission to ensure that your
 assignment was submitted successfully.  I know of at least one student who
 didn't check to see he received a confirmation (he didn't realize there was
 sometimes a "Yes, I really want to submit" page) and lost a letter grade overall
-in the class as a result.
+in the class as a result.~~
 
-After you submit, you can go onto the T-Square page and download the
+~~After you submit, you can go onto the T-Square page and download the
 documents/files you submitted.  I download what I submitted, create a clear
 environment and make sure my code works (my own unit tests pass) and that it's
-the right version of the appropriate documents.
+the right version of the appropriate documents.~~
 
 # Getting Stuff Done
 
@@ -196,8 +200,8 @@ the right version of the appropriate documents.
 These tend to be really expensive, so you don't really have to buy them unless
 they're marked as "required". In nearly every course I've done the textbooks
 have been completely optional and for just going more in-depth into the material
-to get derivations or a better grip on the math. The Hedge Fund book for ML4T
-has been my only "required" textbook.
+to get derivations or a better grip on the math. ~~The Hedge Fund book for ML4T
+was my only "required" textbook.~~
 
 Notable Exceptions to the "Required Only" Rule: ~~The
 [CLRS](https://www.amazon.com/Introduction-Algorithms-3rd-MIT-Press/dp/0262033844/)
@@ -281,9 +285,9 @@ recommend.
 
 ## Source Control
 
-You can get a free account at [github.gatech.edu](https://github.gatech.edu/) to
+~~You can get a free account at [github.gatech.edu](https://github.gatech.edu/) to
 host unlimited private git
-repositories for projects.  Do this!  If you post a public source control
+repositories for projects.  Do this!~~  If you post a public source control
 repository for a class, you can, and probably will, be prosecuted for honor code
 violations.  Additionally, it prevents you from losing your work when your
 computer hard drive inexplicably dies days before an assignment is due.
