@@ -1,3 +1,9 @@
+# This is very old!
+
+This was written in 2016.  I've cut out a bunch of things which are outdated,
+and I'm just leaving the very general advice.  OMSCS was a long time ago
+and I hope you have as much fun as I did.
+
 # How OMSCS Works
 
 Georgia Tech's OMSCS might be online, but these are campus level of difficulty
@@ -70,7 +76,6 @@ better.  In the end, I believe that it saves me time.
 
 ## Class forums
 
-
 Students post really useful things like IDE recommendations, useful 3rd party
 libraries, documentation links, and (when allowed) unit/integration tests.
 Professors/TAs will post assignment updates and clarifying information.
@@ -127,8 +132,6 @@ this by downloading an appropriate Linux image and running it with VirtualBox.
 Mac users can just do a spotlight search for "Terminal" and they are good to go.
 Technically Mac provides BSD-style commands/programs, but most of it is the same
 or very similar to Linux/GNU style commands/programs.
-
-_Just go to [HackerRank](https://www.hackerrank.com/domains), and do the "Linux Shell" challenges._
 
 Windows users can now take advantage of a partial Linux experience using the
 Windows Subsystem for Linux (WSL).  [Cmder](https://cmder.net/) is a good
