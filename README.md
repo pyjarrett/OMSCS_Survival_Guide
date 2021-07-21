@@ -1,49 +1,10 @@
-# It's 2021 now, and this was written in 2016
-
-__**It's been over four years since I wrote this and more than three since I
-graduated.  Since I've been disconnected from the school for so long, I've
-struck out the material I believe might be out of date.  I'd hoped
-that students would submit corrections over time to keep it current, but that
-hasn't happened, so I oscillate between thinking of removing this repository in
-it's entirely or paring it down to just the unstruck portions.**__
-
 # How OMSCS Works
 
 Georgia Tech's OMSCS might be online, but these are campus level of difficulty
 Master's courses.  Georgia Tech does a good job reinforcing its reputation while
 offering these distance courses.
 
-# ~~Prepping for the Semester~~
-
-~~Time tickets: Registration occurs in two phases: I and II.  Time tickets come
-out a day before registration starts and give you your time interval for doing
-registration. The schedule for everything is at the [GT Registrar's website.](http://www.registrar.gatech.edu/calendar/)~~
-
-~~Holds: From Ric Y: If you have holds on your account you cannot register!  Be
-sure to check and get these cleared so you can get the classes you want.~~
-
-~~Registration: Old students get phase I registration, new students only get phase
-II.  You have a significantly better chance of getting into classes during phase
-I than phase II.   If you are not standing by to register for a highly sought
-after class within the first 15 minutes of the registration period, you will
-probably get on a waiting list.  Ensure you convert the period of your time
-ticket to your local time zone. I *ahem*, may have forgotten that (at least)
-once (I also tend to lose my car in the parking garage at work at least a few
-times a week).~~
-
-~~Picking Classes: Know which specialization you want to pursue, as it will fit
-into your class schedule.  Get your foundational courses done quickly, as it
-causes you to transfer to being a fully admitted student.  If you delay, you
-might have some real life thing come up, causing you to need to drop a course
-and not meet your foundational requirements on time and get potentially booted
-from the program.  Game over.~~
-
-~~Most classes have a sample lecture and syllabus posted on the [OMSCS website](http://www.omscs.gatech.edu/current-courses).
-Your [specialization](http://www.omscs.gatech.edu/program-info/specializations)
-will not take but about half of your 30 credits to graduate,
-so you have time to take other classes you are interested in.  So, for Pete's
-sake take classes that interest you!  If you're debating between multiple
-courses, have a gander at the [unofficial course reviews](https://omscentral.com/reviews).~~
+# Prepping for the Semester
 
 Classes typically have a list of recommended skills and background listed on the
 appropriate OMSCS page.  Read this and get an overview on the main stuff.
@@ -84,41 +45,7 @@ computer vision, CCA (when it existed.), machine learning, and HPCA.  There are 
 search for, or ask about your desired scheduled on the OMSCS Reddit, you
 will get a lot of helpful suggestions about if you are taking too much.
 
-# ~~Big Dates to Know~~
-
-1. ~~Phase I registration~~
-2. ~~Time Tickets~~
-4. ~~The first withdrawal deadline (before you get a "W" for withdrawal on your transcript)~~
-5. ~~The final withdrawal deadline (the last offramp, in which you get a "W" instead of an actual grade)~~
-
-# Must-Have Websites
-
-## ~~Google+~~
-
-~~There is a very active Georgia Tech OMSCS community on Google+, where you can
-discuss course registrations, general OMSCS topics, and other generic things about OMSCS.
-Note that this includes other students, TAs, and some professors, so be sure to temper what you
-say there.  It is really friendly there (not a surprise, every OMSCS person I've
-met is friendly) and you will likely get answer quickly.~~
-
-~~_**Do not spam the Google+ OMSCS board**_~~
-
-~~Every person that writes a question enters the inbox of *all* members of
-the Google+ OMSCS community.  Please: search for answers to your questions
-on other reference sites before you post.  It is incredibly
-irritating to many when the same questions (and answers) appear 3, 4 or more times.
-This gets more frustrating when it is a small group of people who continue to ask
-repeat questions.  Roughly 2/3rds of the questions that enter my email have been
-asked before, and I am to the point that I have considered leaving the Google+
-OMSCS group since it has become unusable. This is not to say that you shouldn't
-ask questions.  But please, please, search on the community first.  With a high
-degree of likelihood, your question already has a very detailed answer and you
-won't need to even wait for one when you find it :)~~
-
-Google+ doesn't exist anymore.  You can probably reach out on [r/OMSCS](https://www.reddit.com/r/OMSCS/)
-on Reddit for things mentioned above.
-
-## Lectures ~~on Udacity~~
+# Lectures
 
 As expected, there are lectures for each class.  Accompanying this is typically
 some sort of "recommended schedule" so you stay up to date with the knowledge
@@ -141,15 +68,8 @@ actually watch the lectures and take notes and do the quizzes.  It takes more
 time, but since I am a super strong visual and auditory learner, so I retain it
 better.  In the end, I believe that it saves me time.
 
-## ~~Piazza~~ Class forums
+## Class forums
 
-~~Every class I've taken has used the awesome online forum Piazza.  It works like
-any internet forum with posts and replies.  Ask questions and interact with
-other students, as you will probably see them again.  If you're not sure if your
-question is appropriate for a group discussion, post a private question/note to
-the teaching staff first, and sometimes they will tell you to make it public (or
-ask).  Also, be sure to grab the Piazza app for your mobile device.  If you have
-time to play Pokemon Go, you have time to check Piazza.~~
 
 Students post really useful things like IDE recommendations, useful 3rd party
 libraries, documentation links, and (when allowed) unit/integration tests.
@@ -160,70 +80,23 @@ are asking questions early and being active.  The earlier the better, and you
 can definitely tell if you are ahead or behind on an assignment based on the
 number of posts and the amount of general activity.
 
-When you get stuck or tired of an assignment, just check the Piazza posts.
+When you get stuck or tired of an assignment, just check the class forum posts.
 There's probably a missing requirement or clarification you need that someone
 else has asked about that has already been answered.  Or, you might need to be
 the person who asks for clarification.
 
-The same principles of sort, star, and archive of email also apply to Piazza
-posts.
-
-"Star" the most useful posts, as you will probably be working tired at some
-point.  This sounds pretty basic, but if you're sleep deprived, being able to
-find and re-read that post in which the TA explains a critical technical point
-about the assignment for clarification will save you many minutes.  Also,
-"archive" posts you know you aren't going to need to reduce the clutter.
-
-Foster the community on Piazza, since your fellow students will be awesome.  I
+Foster the community, since your fellow students will be awesome.  I
 would call out names here of awesome folks I've gotten to work with, but there's
 too many names and not enough space to list them here.
 
-## ~~T-Square~~
+## Submitting Assignments
 
-~~This is how you will submit assignments and get grades returned to you.  It's a
-pretty simple web interface.  There really isn't much to it, just make sure you
-get an e-mail confirmation of assignment submission to ensure that your
-assignment was submitted successfully.  I know of at least one student who
-didn't check to see he received a confirmation (he didn't realize there was
-sometimes a "Yes, I really want to submit" page) and lost a letter grade overall
-in the class as a result.~~
-
-~~After you submit, you can go onto the T-Square page and download the
+After you submit, you can go onto and download the
 documents/files you submitted.  I download what I submitted, create a clear
 environment and make sure my code works (my own unit tests pass) and that it's
-the right version of the appropriate documents.~~
+the right version of the appropriate documents.
 
 # Getting Stuff Done
-
-## Books
-
-These tend to be really expensive, so you don't really have to buy them unless
-they're marked as "required". In nearly every course I've done the textbooks
-have been completely optional and for just going more in-depth into the material
-to get derivations or a better grip on the math. ~~The Hedge Fund book for ML4T
-was my only "required" textbook.~~
-
-Notable Exceptions to the "Required Only" Rule: ~~The
-[CLRS](https://www.amazon.com/Introduction-Algorithms-3rd-MIT-Press/dp/0262033844/)
-and [Sipser](https://www.amazon.com/Introduction-Theory-Computation-Michael-Sipser/dp/113318779X)
-algorithm books for CCA (Computability, Complexity, and Algorithms).~~  CCA
-doesn't exist anymore and has been replaced by Graduate Algorithms.  CLRS is still
-a great book to have.
-I would highly recommend Thrun's [Probabilistic robotics
-book](https://www.amazon.com/Probabilistic-Robotics-Intelligent-Autonomous-Agents/dp/0262201623/)
-though if you can afford it, and want to really understand the math behind
-everything in AI for Robotics (especially SLAM), though you don't really need
-derivations to do the assignments.
-
-Disclaimer: I buy almost all the (non-language specific) books for my
-professional library, but have never actually needed any of the optional ones to
-do the required coursework.
-
-Some courses have PDFs and academic articles posted in class resources as well.
-Also, look up alternative texts online such as [Szeliski](http://szeliski.org/Book/drafts/SzeliskiBook_20100903_draft.pdf)
-computer vision book, buy books early, and look for used copies.  From Romeo C.:
-"Certain books can be accessed online for free (legally) through Gatech's
-library (that was the case for some optional books for CCA, for example)."
 
 ## Virtual Box and VMs
 
@@ -248,19 +121,18 @@ you're not at least familiar on the surface with basic Linux tools
 (git, grep, less, find, etc.) for most classes, you are in for a hurtful
 awakening.
 
-~~If you have never programmed on Linux and your class requires it, you should
+If you have never programmed on Linux and your class requires it, you should
 also at least attempt it before the semester.  Windows users can conveniently do
 this by downloading an appropriate Linux image and running it with VirtualBox.
 Mac users can just do a spotlight search for "Terminal" and they are good to go.
 Technically Mac provides BSD-style commands/programs, but most of it is the same
-or very similar to Linux/GNU style commands/programs.~~
+or very similar to Linux/GNU style commands/programs.
 
 _Just go to [HackerRank](https://www.hackerrank.com/domains), and do the "Linux Shell" challenges._
 
 Windows users can now take advantage of a partial Linux experience using the
 Windows Subsystem for Linux (WSL).  [Cmder](https://cmder.net/) is a good
 alternative which comes with a lot of things bundled.
-[Cygwin](https://www.cygwin.com/) creates it's own environment.
 
 ## IDEs/Editors
 
@@ -285,9 +157,7 @@ recommend.
 
 ## Source Control
 
-~~You can get a free account at [github.gatech.edu](https://github.gatech.edu/) to
-host unlimited private git
-repositories for projects.  Do this!~~  If you post a public source control
+If you post a public source control
 repository for a class, you can, and probably will, be prosecuted for honor code
 violations.  Additionally, it prevents you from losing your work when your
 computer hard drive inexplicably dies days before an assignment is due.
@@ -304,8 +174,8 @@ able to track down a bug because you don't remember all the places you've change
 since the last time something worked.  As you get more advanced with git, there
 are [really good tools to learn](http://ndpsoftware.com/git-cheatsheet.html#loc=workspace;).
 
-Every project I've started begins with creating a private repository on
-github.gatech.edu for that project.  After this, everything that I do for that
+Every project I've started begins with creating a private repository.
+After this, everything that I do for that
 project goes into source control.  Everything.  EVERYTHING. I really hope my
 point is clear.  PUT EVERYTHING IN SOURCE CONTROL.  Bookmarks of websites or
 other resources get put into a resources.md (md is for markdown).  The unit (and
@@ -402,7 +272,6 @@ because I "didn't have time" failed to read the specification completely and
 sufficiently.
 
 "If I had an hour to solve a problem I'd spend 55 minutes thinking about the problem and 5 minutes think about solutions." - Albert Einstein
-
 
 Develop a schedule and milestones from the specification, noting that you should
 expect to spend about 80% of your time, on the last 20% of the project.
